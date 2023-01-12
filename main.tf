@@ -129,5 +129,5 @@ resource "aws_instance" "web_instance" {
   user_data = file("userData.sh")
 
 
-  
+   
 }
