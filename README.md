@@ -13,3 +13,6 @@ PART 1
 PART 2
 - Draw an Architecture for your web-application using draw.io
 - Save the user data code in a .sh file
+
+PART 3
+- Docker can also be installed in place of httpd
